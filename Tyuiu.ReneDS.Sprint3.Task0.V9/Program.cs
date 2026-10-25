@@ -24,7 +24,7 @@ namespace Tyuiu.ReneDS.Sprint3.Task0.V9
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
-
+            // Исходные данные из условия задания.
             double value = 0.5;
             int startValue = 1;
             int stopValue = 15;

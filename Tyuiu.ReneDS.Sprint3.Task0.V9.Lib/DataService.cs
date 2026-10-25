@@ -1,4 +1,5 @@
-﻿using tyuiu.cources.programming.interfaces.Sprint3;
+﻿// Вычисляем сумму ряда с помощью цикла for.
+using tyuiu.cources.programming.interfaces.Sprint3;
 
 namespace Tyuiu.ReneDS.Sprint3.Task0.V9.Lib
 {
