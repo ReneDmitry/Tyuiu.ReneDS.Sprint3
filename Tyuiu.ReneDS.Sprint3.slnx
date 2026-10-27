@@ -34,4 +34,5 @@
     <Project Path="Tyuiu.ReneDS.Sprint3.Task6.V14.Test/Tyuiu.ReneDS.Sprint3.Task6.V14.Test.csproj" Id="1825fe23-5c3e-4f03-b35d-752d02728853" />
     <Project Path="Tyuiu.ReneDS.Sprint3.Task6.V14/Tyuiu.ReneDS.Sprint3.Task6.V14.csproj" Id="a580b800-c0ee-46a5-8568-9ef2cc7922e3" />
   </Folder>
+  <Folder Name="/Task7/" />
 </Solution>

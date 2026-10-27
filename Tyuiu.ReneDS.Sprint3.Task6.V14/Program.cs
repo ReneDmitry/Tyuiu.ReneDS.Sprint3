@@ -12,8 +12,8 @@ namespace Tyuiu.ReneDS.Sprint3.Task5.V14
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Вложенные циклы                                                   *");
-            Console.WriteLine("* Задание #5                                                              *");
+            Console.WriteLine("* Тема: Обработка целочисленной информации                                *");
+            Console.WriteLine("* Задание #6                                                              *");
             Console.WriteLine("* Вариант #14                                                             *");
             Console.WriteLine("* Выполнил: Ренье Дмитрий Сергеевич | АСОиУБ-26-1                         *");
             Console.WriteLine("***************************************************************************");
