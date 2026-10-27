@@ -8,7 +8,7 @@ namespace Tyuiu.ReneDS.Sprint3.Task2.V1.Test
         [TestMethod]
         public void ValidGetSumSeries()
         {
-            Dataservice ds = new Dataservice();
+            DataService ds = new DataService();
 
             int startValue = 1;
             int stopValue = 10;
