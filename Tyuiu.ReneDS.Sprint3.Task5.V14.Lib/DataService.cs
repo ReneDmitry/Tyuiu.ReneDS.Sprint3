@@ -12,7 +12,7 @@ namespace Tyuiu.ReneDS.Sprint3.Task5.V14.Lib
             {
                 for (int k = startValue2; k <= stopValue2; k++)
                 {
-                    res = res + Math.Sin(x) + 2.0 / k;
+                    res = res + Math.Sin(x) + 2 / k;
                 }
             }
 
